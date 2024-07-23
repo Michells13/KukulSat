@@ -1,5 +1,13 @@
 # KukulSat
-### Different deep learning approaches to sat data.
+## Deep learning approaches to satellite data and a continuation of the IEEC TFM project.
+
+## Cloud detection:
+## Deforestation:
+## Vehicle detection:
+## Land-use classification:
+## In-orbit satellite
+## Building change detection:
+## Disaster zone, change and detection:
 ##Datasets
 - [Cloud detection](https://www.kaggle.com/datasets/virajkadam/ai4earth-mask-the-clouds)
 - [Deforestation](https://www.kaggle.com/datasets/isaienkov/deforestation-in-ukraine)
