@@ -1,5 +1,5 @@
 # KukulSat
-## Deep learning approaches to satellite data and a continuation of the IEEC TFM project.
+Deep learning approaches to satellite data and a continuation of the IEEC TFM project.
 
 ## Cloud detection:
 ## Deforestation:
